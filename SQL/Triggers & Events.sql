@@ -34,7 +34,7 @@ begin
 end $$
 delimiter ;
  
-show variables like 'events%';
+show variables like 'event%';
 
 
 
